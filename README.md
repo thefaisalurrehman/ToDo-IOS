@@ -3,7 +3,7 @@
 The purpose of made this application is to learning self and help other to do same.
 
 # Applied technologies and libraries:
-1) Swift
+1) SwiftUI
 2) MVVM Architecture Pattern
 3) Swift
 4) Firebase Auth 
